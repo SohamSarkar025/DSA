@@ -1,7 +1,7 @@
 //    Take a number as input and print the multiplication table for it.
 
 import java.util.Scanner;
-public class Questions03 {
+public class Question03 {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         System.out.print("Enter a number:");
