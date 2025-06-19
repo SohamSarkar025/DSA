@@ -6,7 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/Conditions/Conditions.iml" filepath="$PROJECT_DIR$/Conditions/Conditions.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/DSA WITH JAVA.iml" filepath="$PROJECT_DIR$/.idea/DSA WITH JAVA.iml" />
       <module fileurl="file://$PROJECT_DIR$/Function/Function.iml" filepath="$PROJECT_DIR$/Function/Function.iml" />
-      <module fileurl="file://$PROJECT_DIR$/HashSet/Hashing.iml" filepath="$PROJECT_DIR$/HashSet/Hashing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hashing/Hashing.iml" filepath="$PROJECT_DIR$/Hashing/Hashing.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java_Basics/Java_Basics.iml" filepath="$PROJECT_DIR$/Java_Basics/Java_Basics.iml" />
       <module fileurl="file://$PROJECT_DIR$/String_StringBuilder/String_StringBuilder.iml" filepath="$PROJECT_DIR$/String_StringBuilder/String_StringBuilder.iml" />
     </modules>
