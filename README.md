@@ -15,5 +15,4 @@ This repository is dedicated to:
 
 ---
 
-## 🗂️ Repository Structure
 
