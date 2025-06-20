@@ -1,7 +1,7 @@
 public class ReverseNumber {
     public static void main(String[] args) {
         int num = 1234636;
-//        int sum =0;
+
         int res = reverse(num);
         System.out.println(res);
     }
