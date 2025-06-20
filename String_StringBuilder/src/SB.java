@@ -7,6 +7,7 @@ public class SB {
         }
 
         System.out.println(builder);
+
         System.out.println(builder.toString());
     }
 }

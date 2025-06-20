@@ -6,7 +6,7 @@ public class Performance {
             series += ch;
         }
         System.out.println(series);
-        //Every time in series there internallly making a new object
+        //Every time in series there internally making a new object
         //Thats why we need StringBuilder
     }
 }
