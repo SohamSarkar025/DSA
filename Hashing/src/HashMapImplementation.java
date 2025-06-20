@@ -88,14 +88,12 @@ public class HashMapImplementation {
                 return buckets[bucketIndex].get(nodeIndex).value;
             }
         }
-
         // CONTAINS KEY method
         public boolean containsKey(K key) {
             int bucketIndex = hashFunction(key);
             int nodeIndex = searchInBucket(key, bucketIndex);
             return nodeIndex != -1;
         }
-
         // REMOVE method
         public V remove(K key) {
             int bucketIndex = hashFunction(key);
@@ -109,7 +107,6 @@ public class HashMapImplementation {
                 return node.value;
             }
         }
-
         // KEYSET method
         public ArrayList<K> keySet() {
             ArrayList<K> keys = new ArrayList<>();
@@ -120,7 +117,6 @@ public class HashMapImplementation {
             }
             return keys;
         }
-
         // REHASH method to double the bucket size and redistribute keys
         private void rehash() {
             LinkedList<Node>[] oldBuckets = buckets;

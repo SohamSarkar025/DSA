@@ -11,13 +11,11 @@ public class HashMapBasics {
 
         map.put("China",200); //Update the value corresponding to key "China"
         System.out.println(map);
-
         //Search
         //map.containsKey() Return true is the Key is Present
         if(map.containsKey("China")){
             System.out.println("Key Present");
         }
-
         //map.get() Return the result of the key
         System.out.println(map.get("China"));//Return the value of the key if exists
         System.out.println(map.get("Chinaaa")); //Return null if the key is not present
@@ -28,19 +26,16 @@ public class HashMapBasics {
         for(int val : arr){
             System.out.print(val+" ");
         }
-
         //Iteration in HashMap through Entry Set
         for( Map.Entry<String,Integer> e: map.entrySet()) {
             System.out.println(e.getKey());
             System.out.println(e.getValue());
         }
-
         //Iteration in HashMap through Key Set
         Set<String> keys = map.keySet();
         for(String key : keys){
             System.out.println(key+" "+map.get(key));
         }
-
         //Delete
         map.remove("China");
         System.out.println(map);
