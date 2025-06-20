@@ -22,6 +22,7 @@ public class HashMapBasics {
         System.out.println(map.get("China"));//Return the value of the key if exists
         System.out.println(map.get("Chinaaa")); //Return null if the key is not present
 
+
         //Enhanced For Loop
         int[] arr = {1,2,3};
         for(int val : arr){

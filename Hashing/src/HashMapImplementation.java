@@ -89,7 +89,7 @@ public class HashMapImplementation {
             }
         }
 
-        // CONTAINSKEY method
+        // CONTAINS KEY method
         public boolean containsKey(K key) {
             int bucketIndex = hashFunction(key);
             int nodeIndex = searchInBucket(key, bucketIndex);
@@ -144,7 +144,7 @@ public class HashMapImplementation {
             return n;
         }
 
-        // ISEMPTY method
+        // EMPTY method
         public boolean isEmpty() {
             return n == 0;
         }
