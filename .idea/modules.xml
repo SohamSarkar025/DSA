@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/Function/Function.iml" filepath="$PROJECT_DIR$/Function/Function.iml" />
       <module fileurl="file://$PROJECT_DIR$/Hashing/Hashing.iml" filepath="$PROJECT_DIR$/Hashing/Hashing.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java_Basics/Java_Basics.iml" filepath="$PROJECT_DIR$/Java_Basics/Java_Basics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Stack_Queue/Stack_Queue.iml" filepath="$PROJECT_DIR$/Stack_Queue/Stack_Queue.iml" />
       <module fileurl="file://$PROJECT_DIR$/String_StringBuilder/String_StringBuilder.iml" filepath="$PROJECT_DIR$/String_StringBuilder/String_StringBuilder.iml" />
     </modules>
   </component>
